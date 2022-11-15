@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm HITESH</h1>
 <h3 align="center">A passionate BCA from India</h3>
-<img align ="right"alt="coding" "width=400" src=https://images.app.goo.gl/T3x6xCURwiq1kUan9">
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/148866485-8fb1c876-9a8f-4d6a-98dc-08c4981af70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitesh02002&label=Profile%20views&color=0e75b6&style=flat" alt="hitesh02002" /> </p>
 
 - 📫 How to reach me **hiteshparihar0102@gmail.com**
